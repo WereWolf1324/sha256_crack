@@ -10,3 +10,5 @@ python passwordCrackSha1.py
 ------
 Then enter/paste your sha1 encrypted text
 -
+The creator is not responsible for any misuse of this application!
+-
